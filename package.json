@@ -1,0 +1,9 @@
+{
+    "name": "OrganicDevelopment",
+    "version": "0.0.0",
+    "description": "Organic development",
+    "dependencies": {
+        "organic": "0.0.11"
+    },
+    "author": "Your Name Here"
+}
